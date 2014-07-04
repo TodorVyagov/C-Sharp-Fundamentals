@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\PrintSquareOf12345\bin\Debug\PrintSquareOf12345.exe.config
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\PrintSquareOf12345\obj\Debug\PrintSquareOf12345.exe
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\PrintSquareOf12345\obj\Debug\PrintSquareOf12345.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\HelloCSharp\PrintSquareOf12345\bin\Debug\PrintSquareOf12345.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\HelloCSharp\PrintSquareOf12345\bin\Debug\PrintSquareOf12345.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\HelloCSharp\PrintSquareOf12345\obj\Debug\8. PrintSquareOf12345.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\PrintSquareOf12345\bin\Debug\PrintSquareOf12345.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\PrintSquareOf12345\obj\Debug\PrintSquareOf12345.exe
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\PrintSquareOf12345\obj\Debug\PrintSquareOf12345.pdb

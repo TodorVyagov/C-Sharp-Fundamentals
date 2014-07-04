@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\PrintSquareOf12345\bin\Debug\PrintSquareOf12345.exe.config
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\PrintSquareOf12345\bin\Debug\PrintSquareOf12345.exe
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\PrintSquareOf12345\bin\Debug\PrintSquareOf12345.pdb
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\PrintSquareOf12345\obj\Debug\PrintSquareOf12345.exe
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\PrintSquareOf12345\obj\Debug\PrintSquareOf12345.pdb

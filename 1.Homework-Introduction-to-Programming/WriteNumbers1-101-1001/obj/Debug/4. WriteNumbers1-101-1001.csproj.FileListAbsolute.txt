@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\WriteNumbers1-101-1001\bin\Debug\WriteNumbers1-101-1001.exe.config
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\WriteNumbers1-101-1001\bin\Debug\WriteNumbers1-101-1001.exe
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\WriteNumbers1-101-1001\bin\Debug\WriteNumbers1-101-1001.pdb
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\WriteNumbers1-101-1001\obj\Debug\4. WriteNumbers1-101-1001.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\WriteNumbers1-101-1001\obj\Debug\WriteNumbers1-101-1001.exe
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\WriteNumbers1-101-1001\obj\Debug\WriteNumbers1-101-1001.pdb

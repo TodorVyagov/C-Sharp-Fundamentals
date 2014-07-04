@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\PrintDate\bin\Debug\PrintDate.exe.config
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\PrintDate\bin\Debug\PrintDate.exe
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\PrintDate\bin\Debug\PrintDate.pdb
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\PrintDate\obj\Debug\PrintDate.exe
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\PrintDate\obj\Debug\PrintDate.pdb
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\PrintDate\obj\Debug\8. PrintDate.csprojResolveAssemblyReference.cache

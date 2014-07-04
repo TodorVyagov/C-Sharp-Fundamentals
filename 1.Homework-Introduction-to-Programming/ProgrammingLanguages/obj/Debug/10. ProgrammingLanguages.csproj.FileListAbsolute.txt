@@ -1,0 +1,18 @@
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\ProgrammingLanguages\bin\Debug\ProgrammingLanguages.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\ProgrammingLanguages\bin\Debug\ProgrammingLanguages.exe
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\ProgrammingLanguages\bin\Debug\ProgrammingLanguages.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\ProgrammingLanguages\obj\Debug\10. ProgrammingLanguages.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\ProgrammingLanguages\obj\Debug\ProgrammingLanguages.exe
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\ProgrammingLanguages\obj\Debug\ProgrammingLanguages.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\ProgrammingLanguages\bin\Debug\ProgrammingLanguages.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\ProgrammingLanguages\obj\Debug\ProgrammingLanguages.exe
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\ProgrammingLanguages\obj\Debug\ProgrammingLanguages.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\ProgrammingLanguages\bin\Debug\ProgrammingLanguages.exe
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\ProgrammingLanguages\bin\Debug\ProgrammingLanguages.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\ProgrammingLanguages\obj\Debug\10. ProgrammingLanguages.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\ProgrammingLanguages\bin\Debug\ProgrammingLanguages.exe.config
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\ProgrammingLanguages\obj\Debug\ProgrammingLanguages.exe
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\ProgrammingLanguages\obj\Debug\ProgrammingLanguages.pdb
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\ProgrammingLanguages\bin\Debug\ProgrammingLanguages.exe
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\ProgrammingLanguages\bin\Debug\ProgrammingLanguages.pdb
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\ProgrammingLanguages\obj\Debug\10. ProgrammingLanguages.csprojResolveAssemblyReference.cache

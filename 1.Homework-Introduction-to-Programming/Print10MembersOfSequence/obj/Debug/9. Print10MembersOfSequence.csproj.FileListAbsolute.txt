@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\Print10MembersOfSequence\bin\Debug\Print10MembersOfSequence.exe.config
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\Print10MembersOfSequence\bin\Debug\Print10MembersOfSequence.exe
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\Print10MembersOfSequence\bin\Debug\Print10MembersOfSequence.pdb
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\Print10MembersOfSequence\obj\Debug\Print10MembersOfSequence.exe
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\Print10MembersOfSequence\obj\Debug\Print10MembersOfSequence.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\Print10MembersOfSequence\bin\Debug\Print10MembersOfSequence.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\Print10MembersOfSequence\obj\Debug\Print10MembersOfSequence.exe
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\Print10MembersOfSequence\obj\Debug\Print10MembersOfSequence.pdb

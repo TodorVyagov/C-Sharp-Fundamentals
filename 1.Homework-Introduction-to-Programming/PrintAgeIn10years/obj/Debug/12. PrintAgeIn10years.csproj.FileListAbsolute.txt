@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\PrintAgeIn10years\bin\Debug\PrintAgeIn10years.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\PrintAgeIn10years\bin\Debug\PrintAgeIn10years.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\PrintAgeIn10years\obj\Debug\PrintAgeIn10years.exe
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\PrintAgeIn10years\obj\Debug\PrintAgeIn10years.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\PrintAgeIn10years\bin\Debug\PrintAgeIn10years.exe
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\PrintAgeIn10years\bin\Debug\PrintAgeIn10years.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\PrintAgeIn10years\bin\Debug\PrintAgeIn10years.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\PrintAgeIn10years\obj\Debug\PrintAgeIn10years.exe
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\PrintAgeIn10years\obj\Debug\PrintAgeIn10years.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\PrintAgeIn10years\bin\Debug\PrintAgeIn10years.exe
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\PrintAgeIn10years\bin\Debug\PrintAgeIn10years.pdb
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\PrintAgeIn10years\bin\Debug\PrintAgeIn10years.exe.config
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\PrintAgeIn10years\obj\Debug\PrintAgeIn10years.exe
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\PrintAgeIn10years\obj\Debug\PrintAgeIn10years.pdb
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\PrintAgeIn10years\bin\Debug\PrintAgeIn10years.exe
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\PrintAgeIn10years\bin\Debug\PrintAgeIn10years.pdb

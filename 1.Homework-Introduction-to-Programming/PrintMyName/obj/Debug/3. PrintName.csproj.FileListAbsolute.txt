@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\PrintMyName\bin\Debug\PrintMyName.exe.config
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\PrintMyName\obj\Debug\PrintMyName.exe
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\PrintMyName\obj\Debug\PrintMyName.pdb
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\PrintMyName\bin\Debug\PrintMyName.exe
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\PrintMyName\bin\Debug\PrintMyName.pdb
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\PrintMyName\obj\Debug\3. PrintName.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\PrintMyName\bin\Debug\PrintMyName.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\PrintMyName\obj\Debug\PrintMyName.exe
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\PrintMyName\obj\Debug\PrintMyName.pdb

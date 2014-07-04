@@ -1,0 +1,12 @@
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\DifferenceBetweenCSharpAndDotNET\bin\Debug\DifferenceBetweenCSharpAndDotNET.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\DifferenceBetweenCSharpAndDotNET\bin\Debug\DifferenceBetweenCSharpAndDotNET.exe
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\DifferenceBetweenCSharpAndDotNET\bin\Debug\DifferenceBetweenCSharpAndDotNET.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\DifferenceBetweenCSharpAndDotNET\obj\Debug\11. DifferenceBetweenCSharpAndDotNET.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\DifferenceBetweenCSharpAndDotNET\obj\Debug\DifferenceBetweenCSharpAndDotNET.exe
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\DifferenceBetweenCSharpAndDotNET\obj\Debug\DifferenceBetweenCSharpAndDotNET.pdb
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\DifferenceBetweenCSharpAndDotNET\bin\Debug\DifferenceBetweenCSharpAndDotNET.exe.config
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\DifferenceBetweenCSharpAndDotNET\obj\Debug\DifferenceBetweenCSharpAndDotNET.exe
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\DifferenceBetweenCSharpAndDotNET\obj\Debug\DifferenceBetweenCSharpAndDotNET.pdb
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\DifferenceBetweenCSharpAndDotNET\bin\Debug\DifferenceBetweenCSharpAndDotNET.exe
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\DifferenceBetweenCSharpAndDotNET\bin\Debug\DifferenceBetweenCSharpAndDotNET.pdb
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\DifferenceBetweenCSharpAndDotNET\obj\Debug\11. DifferenceBetweenCSharpAndDotNET.csprojResolveAssemblyReference.cache

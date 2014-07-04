@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.exe
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.pdb
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.exe
+c:\users\user\documents\visual studio 2013\Projects\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\HelloCSharp\obj\Debug\HelloCSharp.pdb

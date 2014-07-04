@@ -1,0 +1,18 @@
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\HelloCSharp\obj\Debug\HelloCSharp.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\HelloCSharp\bin\Debug\HelloCSharp.exe
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\HelloCSharp\bin\Debug\HelloCSharp.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vuvedenie-v-programiraneto_2013-10-31_15-32\HelloCSharp\obj\Debug\02. HelloCSharp.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\HelloCSharp\obj\Debug\HelloCSharp.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\HelloCSharp\bin\Debug\HelloCSharp.exe
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\HelloCSharp\bin\Debug\HelloCSharp.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\1.Homework-Introduction-to-Programming\HelloCSharp\obj\Debug\02. HelloCSharp.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\HelloCSharp\bin\Debug\HelloCSharp.exe
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\HelloCSharp\bin\Debug\HelloCSharp.pdb
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\HelloCSharp\obj\Debug\02. HelloCSharp.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\Todor\Telerik Software Academy\01.C#- 1Part\1.Homework-Introduction-to-Programming\HelloCSharp\obj\Debug\HelloCSharp.pdb
