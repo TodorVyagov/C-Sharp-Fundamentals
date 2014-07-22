@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.pdb

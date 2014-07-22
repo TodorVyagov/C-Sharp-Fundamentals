@@ -1,0 +1,12 @@
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\CorprightSymbol\bin\Debug\CorprightSymbol.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\CorprightSymbol\obj\Debug\CorprightSymbol.exe
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\CorprightSymbol\obj\Debug\CorprightSymbol.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\CorprightSymbol\bin\Debug\CorprightSymbol.exe
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\CorprightSymbol\bin\Debug\CorprightSymbol.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\CorprightSymbol\obj\Debug\09. CopyrightTriangle.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\CorprightSymbol\bin\Debug\CorprightSymbol.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\CorprightSymbol\obj\Debug\CorprightSymbol.exe
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\CorprightSymbol\obj\Debug\CorprightSymbol.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\CorprightSymbol\bin\Debug\CorprightSymbol.exe
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\CorprightSymbol\bin\Debug\CorprightSymbol.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\CorprightSymbol\obj\Debug\09. CopyrightTriangle.csprojResolveAssemblyReference.cache

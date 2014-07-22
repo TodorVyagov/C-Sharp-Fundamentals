@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\5. AssignSymbol\bin\Debug\_5.AssignSymbol.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\5. AssignSymbol\obj\Debug\5. AssignSymbol.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\5. AssignSymbol\bin\Debug\_5.AssignSymbol.exe
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\5. AssignSymbol\bin\Debug\_5.AssignSymbol.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\5. AssignSymbol\obj\Debug\_5.AssignSymbol.exe
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\5. AssignSymbol\obj\Debug\_5.AssignSymbol.pdb

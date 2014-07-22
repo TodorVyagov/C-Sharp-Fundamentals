@@ -1,0 +1,11 @@
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\ConsoleApplication2\obj\Debug\07. TypeCasting.csprojResolveAssemblyReference.cache

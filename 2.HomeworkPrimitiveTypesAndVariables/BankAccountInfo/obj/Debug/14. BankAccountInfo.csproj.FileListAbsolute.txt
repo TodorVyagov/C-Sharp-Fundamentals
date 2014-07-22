@@ -1,0 +1,9 @@
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\BankAccountInfo\bin\Debug\BankAccountInfo.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\BankAccountInfo\bin\Debug\BankAccountInfo.exe
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\BankAccountInfo\bin\Debug\BankAccountInfo.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\BankAccountInfo\obj\Debug\BankAccountInfo.exe
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\BankAccountInfo\obj\Debug\BankAccountInfo.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\BankAccountInfo\obj\Debug\14. BankAccountInfo.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\BankAccountInfo\bin\Debug\BankAccountInfo.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\BankAccountInfo\obj\Debug\BankAccountInfo.exe
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\BankAccountInfo\obj\Debug\BankAccountInfo.pdb

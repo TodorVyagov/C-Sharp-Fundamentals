@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\ComparingNumbers\bin\Debug\ComparingNumbers.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\ComparingNumbers\bin\Debug\ComparingNumbers.exe
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\ComparingNumbers\bin\Debug\ComparingNumbers.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\ComparingNumbers\obj\Debug\ComparingNumbers.exe
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\ComparingNumbers\obj\Debug\ComparingNumbers.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\ComparingNumbers\obj\Debug\3. CompareNumbers.csprojResolveAssemblyReference.cache

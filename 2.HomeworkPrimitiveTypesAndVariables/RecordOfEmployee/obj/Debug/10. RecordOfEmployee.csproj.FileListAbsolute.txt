@@ -1,0 +1,12 @@
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\RecordOfEmployee\bin\Debug\RecordOfEmployee.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\RecordOfEmployee\bin\Debug\RecordOfEmployee.exe
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\RecordOfEmployee\bin\Debug\RecordOfEmployee.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\RecordOfEmployee\obj\Debug\10. RecordOfEmployee.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\RecordOfEmployee\obj\Debug\RecordOfEmployee.exe
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\RecordOfEmployee\obj\Debug\RecordOfEmployee.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\RecordOfEmployee\bin\Debug\RecordOfEmployee.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\RecordOfEmployee\obj\Debug\RecordOfEmployee.exe
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\RecordOfEmployee\obj\Debug\RecordOfEmployee.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\RecordOfEmployee\bin\Debug\RecordOfEmployee.exe
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\RecordOfEmployee\bin\Debug\RecordOfEmployee.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\RecordOfEmployee\obj\Debug\10. RecordOfEmployee.csprojResolveAssemblyReference.cache

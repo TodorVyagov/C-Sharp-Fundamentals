@@ -1,0 +1,11 @@
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\AsciiTable\bin\Debug\AsciiTable.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\AsciiTable\bin\Debug\AsciiTable.exe
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\AsciiTable\bin\Debug\AsciiTable.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\AsciiTable\obj\Debug\AsciiTable.exe
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\AsciiTable\obj\Debug\AsciiTable.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\AsciiTable\bin\Debug\AsciiTable.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\AsciiTable\obj\Debug\AsciiTable.exe
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\AsciiTable\obj\Debug\AsciiTable.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\AsciiTable\bin\Debug\AsciiTable.exe
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\AsciiTable\bin\Debug\AsciiTable.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\2.HomeworkPrimitiveTypesAndVariables\AsciiTable\obj\Debug\12. PrintAscii.csprojResolveAssemblyReference.cache

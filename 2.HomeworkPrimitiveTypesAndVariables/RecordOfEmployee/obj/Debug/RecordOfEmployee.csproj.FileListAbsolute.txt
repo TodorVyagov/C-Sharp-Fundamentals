@@ -1,0 +1,1 @@
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\RecordOfEmployee\bin\Debug\RecordOfEmployee.exe.config

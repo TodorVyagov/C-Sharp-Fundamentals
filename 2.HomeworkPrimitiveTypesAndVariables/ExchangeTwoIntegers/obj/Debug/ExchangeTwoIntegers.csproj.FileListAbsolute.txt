@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\ExchangeTwoIntegers\bin\Debug\ExchangeTwoIntegers.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\ExchangeTwoIntegers\bin\Debug\ExchangeTwoIntegers.exe
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\ExchangeTwoIntegers\bin\Debug\ExchangeTwoIntegers.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\ExchangeTwoIntegers\obj\Debug\ExchangeTwoIntegers.exe
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\ExchangeTwoIntegers\obj\Debug\ExchangeTwoIntegers.pdb

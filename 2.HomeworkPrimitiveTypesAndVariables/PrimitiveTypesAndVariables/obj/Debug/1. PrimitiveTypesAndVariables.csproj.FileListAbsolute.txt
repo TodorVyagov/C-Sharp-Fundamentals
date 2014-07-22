@@ -1,0 +1,3 @@
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\PrimitiveTypesAndVariables\bin\Debug\PrimitiveTypesAndVariables.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\PrimitiveTypesAndVariables\obj\Debug\PrimitiveTypesAndVariables.exe
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\PrimitiveTypesAndVariables\obj\Debug\PrimitiveTypesAndVariables.pdb

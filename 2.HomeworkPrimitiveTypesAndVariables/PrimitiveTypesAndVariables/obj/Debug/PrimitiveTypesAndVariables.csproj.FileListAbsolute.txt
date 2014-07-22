@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\vladislavV\PrimitiveTypesAndVariables\PrimitiveTypesAndVariables\bin\Debug\PrimitiveTypesAndVariables.exe.config
+C:\Users\student\Desktop\vladislavV\PrimitiveTypesAndVariables\PrimitiveTypesAndVariables\obj\Debug\PrimitiveTypesAndVariables.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\vladislavV\PrimitiveTypesAndVariables\PrimitiveTypesAndVariables\bin\Debug\PrimitiveTypesAndVariables.exe
+C:\Users\student\Desktop\vladislavV\PrimitiveTypesAndVariables\PrimitiveTypesAndVariables\bin\Debug\PrimitiveTypesAndVariables.pdb
+C:\Users\student\Desktop\vladislavV\PrimitiveTypesAndVariables\PrimitiveTypesAndVariables\obj\Debug\PrimitiveTypesAndVariables.exe
+C:\Users\student\Desktop\vladislavV\PrimitiveTypesAndVariables\PrimitiveTypesAndVariables\obj\Debug\PrimitiveTypesAndVariables.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\PrimitiveTypesAndVariables\bin\Debug\PrimitiveTypesAndVariables.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\PrimitiveTypesAndVariables\obj\Debug\PrimitiveTypesAndVariables.exe
+D:\Todor\Telerik Software Academy\C# 1Part\PrimitiveTypesAndVariables\PrimitiveTypesAndVariables\obj\Debug\PrimitiveTypesAndVariables.pdb
