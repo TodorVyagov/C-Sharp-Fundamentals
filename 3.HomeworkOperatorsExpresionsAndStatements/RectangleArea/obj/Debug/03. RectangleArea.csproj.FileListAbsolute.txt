@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\RectangleArea\bin\Debug\RectangleArea.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\RectangleArea\obj\Debug\RectangleArea.exe
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\RectangleArea\obj\Debug\RectangleArea.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\RectangleArea\bin\Debug\RectangleArea.exe
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\RectangleArea\bin\Debug\RectangleArea.pdb

@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\Va\3.HWOperatorsExpressions\CheckPointWithinACircleOutOfRectangle\bin\Debug\CheckPointWithinACircleOutOfRectangle.exe
+C:\Users\student\Desktop\Va\3.HWOperatorsExpressions\CheckPointWithinACircleOutOfRectangle\bin\Debug\CheckPointWithinACircleOutOfRectangle.pdb
+C:\Users\student\Desktop\Va\3.HWOperatorsExpressions\CheckPointWithinACircleOutOfRectangle\obj\Debug\9. CheckPointWithinACircleOutOfRectangle.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Va\3.HWOperatorsExpressions\CheckPointWithinACircleOutOfRectangle\obj\Debug\CheckPointWithinACircleOutOfRectangle.exe
+C:\Users\student\Desktop\Va\3.HWOperatorsExpressions\CheckPointWithinACircleOutOfRectangle\obj\Debug\CheckPointWithinACircleOutOfRectangle.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\3.HWOperatorsExpressions\CheckPointWithinACircleOutOfRectangle\obj\Debug\CheckPointWithinACircleOutOfRectangle.exe
+D:\Todor\Telerik Software Academy\C# 1Part\3.HWOperatorsExpressions\CheckPointWithinACircleOutOfRectangle\obj\Debug\CheckPointWithinACircleOutOfRectangle.pdb

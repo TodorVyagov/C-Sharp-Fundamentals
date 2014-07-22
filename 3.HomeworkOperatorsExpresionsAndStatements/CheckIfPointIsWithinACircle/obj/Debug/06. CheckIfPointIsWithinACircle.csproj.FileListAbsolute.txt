@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\CheckIfPointIsWithinACircle\bin\Debug\CheckIfPointIsWithinACircle.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\CheckIfPointIsWithinACircle\obj\Debug\CheckIfPointIsWithinACircle.exe
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\CheckIfPointIsWithinACircle\obj\Debug\CheckIfPointIsWithinACircle.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\CheckIfPointIsWithinACircle\bin\Debug\CheckIfPointIsWithinACircle.exe
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\CheckIfPointIsWithinACircle\bin\Debug\CheckIfPointIsWithinACircle.pdb

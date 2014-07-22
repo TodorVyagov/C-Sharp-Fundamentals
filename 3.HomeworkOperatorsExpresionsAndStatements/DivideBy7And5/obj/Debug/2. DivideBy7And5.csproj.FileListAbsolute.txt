@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\VD\exersize1\DivideBy7And5\bin\Debug\DivideBy7And5.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\DivideBy7And5\bin\Debug\DivideBy7And5.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\DivideBy7And5\bin\Debug\DivideBy7And5.exe
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\DivideBy7And5\bin\Debug\DivideBy7And5.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\DivideBy7And5\obj\Debug\DivideBy7And5.exe
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\DivideBy7And5\obj\Debug\DivideBy7And5.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\DivideBy7And5\obj\Debug\2. DivideBy7And5.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\GiveValueOfBitNumberB\bin\Debug\GiveValueOfBitNumberB.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\GiveValueOfBitNumberB\bin\Debug\GiveValueOfBitNumberB.exe
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\GiveValueOfBitNumberB\bin\Debug\GiveValueOfBitNumberB.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\GiveValueOfBitNumberB\obj\Debug\GiveValueOfBitNumberB.exe
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\GiveValueOfBitNumberB\obj\Debug\GiveValueOfBitNumberB.pdb

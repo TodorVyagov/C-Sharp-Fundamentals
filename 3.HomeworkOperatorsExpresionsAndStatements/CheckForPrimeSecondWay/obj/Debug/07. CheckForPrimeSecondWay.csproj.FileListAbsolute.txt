@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\CheckForPrimeSecondWay\bin\Debug\CheckForPrimeSecondWay.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\CheckForPrimeSecondWay\obj\Debug\CheckForPrimeSecondWay.exe
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\CheckForPrimeSecondWay\obj\Debug\CheckForPrimeSecondWay.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\CheckForPrimeSecondWay\bin\Debug\CheckForPrimeSecondWay.exe
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\CheckForPrimeSecondWay\bin\Debug\CheckForPrimeSecondWay.pdb

@@ -1,0 +1,2 @@
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\TrapezoidArea\obj\Debug\3.HWOperatorsExpressions.exe
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\TrapezoidArea\obj\Debug\3.HWOperatorsExpressions.pdb

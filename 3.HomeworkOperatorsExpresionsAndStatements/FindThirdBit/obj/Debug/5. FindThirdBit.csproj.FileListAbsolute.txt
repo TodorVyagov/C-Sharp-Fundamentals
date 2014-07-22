@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\FindThirdBit\bin\Debug\FindThirdBit.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\FindThirdBit\bin\Debug\FindThirdBit.exe
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\FindThirdBit\bin\Debug\FindThirdBit.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\FindThirdBit\obj\Debug\FindThirdBit.exe
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\FindThirdBit\obj\Debug\FindThirdBit.pdb

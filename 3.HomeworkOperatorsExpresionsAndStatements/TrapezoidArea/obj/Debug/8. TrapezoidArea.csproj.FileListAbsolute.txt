@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Va\3.HWOperatorsExpressions\3.HWOperatorsExpressions\bin\Debug\3.HWOperatorsExpressions.exe
+C:\Users\student\Desktop\Va\3.HWOperatorsExpressions\3.HWOperatorsExpressions\bin\Debug\3.HWOperatorsExpressions.pdb
+C:\Users\student\Desktop\Va\3.HWOperatorsExpressions\3.HWOperatorsExpressions\obj\Debug\8. TrapezoidArea.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Va\3.HWOperatorsExpressions\3.HWOperatorsExpressions\obj\Debug\3.HWOperatorsExpressions.exe
+C:\Users\student\Desktop\Va\3.HWOperatorsExpressions\3.HWOperatorsExpressions\obj\Debug\3.HWOperatorsExpressions.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\3.HWOperatorsExpressions\3.HWOperatorsExpressions\obj\Debug\3.HWOperatorsExpressions.exe
+D:\Todor\Telerik Software Academy\C# 1Part\3.HWOperatorsExpressions\3.HWOperatorsExpressions\obj\Debug\3.HWOperatorsExpressions.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\3.HWOperatorsExpressions\3.HWOperatorsExpressions\bin\Debug\3.HWOperatorsExpressions.exe
+D:\Todor\Telerik Software Academy\C# 1Part\3.HWOperatorsExpressions\3.HWOperatorsExpressions\bin\Debug\3.HWOperatorsExpressions.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\3.HWOperatorsExpressions\3.HWOperatorsExpressions\obj\Debug\8. TrapezoidArea.csprojResolveAssemblyReference.cache

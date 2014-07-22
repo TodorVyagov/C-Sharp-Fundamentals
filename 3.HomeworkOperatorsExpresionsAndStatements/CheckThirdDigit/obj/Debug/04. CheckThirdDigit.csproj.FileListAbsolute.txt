@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\CheckThirdDigit\bin\Debug\CheckThirdDigit.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\CheckThirdDigit\obj\Debug\CheckThirdDigit.exe
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\CheckThirdDigit\obj\Debug\CheckThirdDigit.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\CheckThirdDigit\bin\Debug\CheckThirdDigit.exe
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\CheckThirdDigit\bin\Debug\CheckThirdDigit.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\CheckThirdDigit\obj\Debug\04. CheckThirdDigit.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\VD\exersize1\OddOrEven\bin\Debug\OddOrEven.exe.config
+C:\Users\student\Desktop\VD\exersize1\OddOrEven\bin\Debug\OddOrEven.exe
+C:\Users\student\Desktop\VD\exersize1\OddOrEven\bin\Debug\OddOrEven.pdb
+C:\Users\student\Desktop\VD\exersize1\OddOrEven\obj\Debug\1. OddOrEven.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\VD\exersize1\OddOrEven\obj\Debug\OddOrEven.exe
+C:\Users\student\Desktop\VD\exersize1\OddOrEven\obj\Debug\OddOrEven.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\OddOrEven\bin\Debug\OddOrEven.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\OddOrEven\obj\Debug\OddOrEven.exe
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\OddOrEven\obj\Debug\OddOrEven.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\OddOrEven\obj\Debug\1. OddOrEven.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\OddOrEven\bin\Debug\OddOrEven.exe
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\OddOrEven\bin\Debug\OddOrEven.pdb

@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\Exchange3-4And5BitsOfUintWith24-25And26\bin\Debug\Exchange3-4And5BitsOfUintWith24-25And26.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\Exchange3-4And5BitsOfUintWith24-25And26\bin\Debug\Exchange3-4And5BitsOfUintWith24-25And26.exe
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\Exchange3-4And5BitsOfUintWith24-25And26\bin\Debug\Exchange3-4And5BitsOfUintWith24-25And26.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\Exchange3-4And5BitsOfUintWith24-25And26\obj\Debug\13. ExchangeUintBits.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\Exchange3-4And5BitsOfUintWith24-25And26\obj\Debug\Exchange3-4And5BitsOfUintWith24-25And26.exe
+D:\Todor\Telerik Software Academy\C# 1Part\3.HomeworkOperatorsExpresionsAndStatements\Exchange3-4And5BitsOfUintWith24-25And26\obj\Debug\Exchange3-4And5BitsOfUintWith24-25And26.pdb
