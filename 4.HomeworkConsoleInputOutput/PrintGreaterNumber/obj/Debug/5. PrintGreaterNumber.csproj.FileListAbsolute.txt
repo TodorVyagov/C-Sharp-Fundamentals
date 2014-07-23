@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Todor\4.HW\PrintGreaterNumber\bin\Debug\PrintGreaterNumber.exe.config
+C:\Users\student\Desktop\Todor\4.HW\PrintGreaterNumber\bin\Debug\PrintGreaterNumber.exe
+C:\Users\student\Desktop\Todor\4.HW\PrintGreaterNumber\bin\Debug\PrintGreaterNumber.pdb
+C:\Users\student\Desktop\Todor\4.HW\PrintGreaterNumber\obj\Debug\PrintGreaterNumber.exe
+C:\Users\student\Desktop\Todor\4.HW\PrintGreaterNumber\obj\Debug\PrintGreaterNumber.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\PrintGreaterNumber\bin\Debug\PrintGreaterNumber.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\PrintGreaterNumber\obj\Debug\PrintGreaterNumber.exe
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\PrintGreaterNumber\obj\Debug\PrintGreaterNumber.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\PrintGreaterNumber\bin\Debug\PrintGreaterNumber.exe
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\PrintGreaterNumber\bin\Debug\PrintGreaterNumber.pdb

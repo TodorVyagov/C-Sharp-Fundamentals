@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\SequnceOfFibonacci\obj\Debug\08. SequnceOfFibonacci.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\SequnceOfFibonacci\bin\Debug\SequnceOfFibonacci.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\SequnceOfFibonacci\bin\Debug\SequnceOfFibonacci.exe
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\SequnceOfFibonacci\bin\Debug\SequnceOfFibonacci.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\SequnceOfFibonacci\obj\Debug\SequnceOfFibonacci.exe
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\SequnceOfFibonacci\obj\Debug\SequnceOfFibonacci.pdb

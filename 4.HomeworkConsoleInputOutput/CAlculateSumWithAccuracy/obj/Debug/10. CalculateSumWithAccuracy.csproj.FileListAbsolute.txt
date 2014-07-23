@@ -1,0 +1,12 @@
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\CAlculateSumWithAccuracy\bin\Debug\CAlculateSumWithAccuracy.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\CAlculateSumWithAccuracy\bin\Debug\CAlculateSumWithAccuracy.exe
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\CAlculateSumWithAccuracy\bin\Debug\CAlculateSumWithAccuracy.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\CAlculateSumWithAccuracy\obj\Debug\CAlculateSumWithAccuracy.exe
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\CAlculateSumWithAccuracy\obj\Debug\CAlculateSumWithAccuracy.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\CAlculateSumWithAccuracy\obj\Debug\10. CalculateSumWithAccuracy.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vhod-i-izhod-ot-konzolata_2013-11-11_23-33\CAlculateSumWithAccuracy\bin\Debug\CAlculateSumWithAccuracy.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vhod-i-izhod-ot-konzolata_2013-11-11_23-33\CAlculateSumWithAccuracy\obj\Debug\CAlculateSumWithAccuracy.exe
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vhod-i-izhod-ot-konzolata_2013-11-11_23-33\CAlculateSumWithAccuracy\obj\Debug\CAlculateSumWithAccuracy.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vhod-i-izhod-ot-konzolata_2013-11-11_23-33\CAlculateSumWithAccuracy\bin\Debug\CAlculateSumWithAccuracy.exe
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vhod-i-izhod-ot-konzolata_2013-11-11_23-33\CAlculateSumWithAccuracy\bin\Debug\CAlculateSumWithAccuracy.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vhod-i-izhod-ot-konzolata_2013-11-11_23-33\CAlculateSumWithAccuracy\obj\Debug\10. CalculateSumWithAccuracy.csprojResolveAssemblyReference.cache

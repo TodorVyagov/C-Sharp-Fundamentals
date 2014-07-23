@@ -1,0 +1,9 @@
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\4.HW\bin\Debug\4.HW.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\4.HW\obj\Debug\4.HW.exe
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\4.HW\obj\Debug\4.HW.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vhod-i-izhod-ot-konzolata_2013-11-11_23-33\4.HW\bin\Debug\4.HW.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vhod-i-izhod-ot-konzolata_2013-11-11_23-33\4.HW\obj\Debug\4.HW.exe
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vhod-i-izhod-ot-konzolata_2013-11-11_23-33\4.HW\obj\Debug\4.HW.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vhod-i-izhod-ot-konzolata_2013-11-11_23-33\4.HW\bin\Debug\4.HW.exe
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vhod-i-izhod-ot-konzolata_2013-11-11_23-33\4.HW\bin\Debug\4.HW.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\HW_RANOPILE_Vhod-i-izhod-ot-konzolata_2013-11-11_23-33\4.HW\obj\Debug\01. ReadThreeIntegers.csprojResolveAssemblyReference.cache

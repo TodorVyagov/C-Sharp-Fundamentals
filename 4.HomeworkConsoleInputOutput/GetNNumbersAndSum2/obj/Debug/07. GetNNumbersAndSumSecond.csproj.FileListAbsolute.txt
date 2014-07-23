@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\GetNNumbersAndSum2\obj\Debug\07. GetNNumbersAndSumSecond.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\GetNNumbersAndSum2\bin\Debug\GetNNumbersAndSum2.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\GetNNumbersAndSum2\bin\Debug\GetNNumbersAndSum2.exe
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\GetNNumbersAndSum2\bin\Debug\GetNNumbersAndSum2.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\GetNNumbersAndSum2\obj\Debug\GetNNumbersAndSum2.exe
+D:\Todor\Telerik Software Academy\C# 1Part\4.HomeworkConsoleInputOutput\GetNNumbersAndSum2\obj\Debug\GetNNumbersAndSum2.pdb

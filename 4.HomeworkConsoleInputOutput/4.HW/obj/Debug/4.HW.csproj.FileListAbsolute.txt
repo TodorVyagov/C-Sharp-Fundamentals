@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Todor\4.HW\4.HW\bin\Debug\4.HW.exe.config
+C:\Users\student\Desktop\Todor\4.HW\4.HW\bin\Debug\4.HW.exe
+C:\Users\student\Desktop\Todor\4.HW\4.HW\bin\Debug\4.HW.pdb
+C:\Users\student\Desktop\Todor\4.HW\4.HW\obj\Debug\4.HW.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Todor\4.HW\4.HW\obj\Debug\4.HW.exe
+C:\Users\student\Desktop\Todor\4.HW\4.HW\obj\Debug\4.HW.pdb
