@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\ConditionalStatements\obj\Debug\01. ExchangeValueOfTwoIntegers.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.exe
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.pdb

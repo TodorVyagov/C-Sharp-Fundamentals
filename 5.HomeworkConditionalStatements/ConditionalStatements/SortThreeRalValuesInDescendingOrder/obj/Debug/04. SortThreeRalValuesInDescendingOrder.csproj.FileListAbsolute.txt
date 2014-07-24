@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\SortThreeRalValuesInDescendingOrder\bin\Debug\SortThreeRalValuesInDescendingOrder.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\SortThreeRalValuesInDescendingOrder\bin\Debug\SortThreeRalValuesInDescendingOrder.exe
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\SortThreeRalValuesInDescendingOrder\bin\Debug\SortThreeRalValuesInDescendingOrder.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\SortThreeRalValuesInDescendingOrder\obj\Debug\04. SortThreeRalValuesInDescendingOrder.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\SortThreeRalValuesInDescendingOrder\obj\Debug\SortThreeRalValuesInDescendingOrder.exe
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\SortThreeRalValuesInDescendingOrder\obj\Debug\SortThreeRalValuesInDescendingOrder.pdb

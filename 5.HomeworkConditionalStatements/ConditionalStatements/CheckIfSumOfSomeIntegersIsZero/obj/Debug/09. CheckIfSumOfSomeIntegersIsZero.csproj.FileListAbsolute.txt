@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\CheckIfSumOfSomeIntegersIsZero\obj\Debug\09. CheckIfSumOfSomeIntegersIsZero.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\CheckIfSumOfSomeIntegersIsZero\bin\Debug\CheckIfSumOfSomeIntegersIsZero.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\CheckIfSumOfSomeIntegersIsZero\bin\Debug\CheckIfSumOfSomeIntegersIsZero.exe
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\CheckIfSumOfSomeIntegersIsZero\bin\Debug\CheckIfSumOfSomeIntegersIsZero.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\CheckIfSumOfSomeIntegersIsZero\obj\Debug\CheckIfSumOfSomeIntegersIsZero.exe
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\CheckIfSumOfSomeIntegersIsZero\obj\Debug\CheckIfSumOfSomeIntegersIsZero.pdb

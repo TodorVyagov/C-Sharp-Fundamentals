@@ -1,0 +1,1 @@
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\SignOfProductOfThreeRealNumbers\bin\Debug\SignOfProductOfThreeRealNumbers.exe.config

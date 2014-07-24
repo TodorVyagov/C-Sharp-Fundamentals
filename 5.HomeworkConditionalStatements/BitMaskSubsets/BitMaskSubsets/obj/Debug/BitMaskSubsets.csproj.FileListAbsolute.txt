@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\BitMaskSubsets\BitMaskSubsets\bin\Debug\BitMaskSubsets.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\BitMaskSubsets\BitMaskSubsets\bin\Debug\BitMaskSubsets.exe
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\BitMaskSubsets\BitMaskSubsets\bin\Debug\BitMaskSubsets.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\BitMaskSubsets\BitMaskSubsets\obj\Debug\BitMaskSubsets.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\BitMaskSubsets\BitMaskSubsets\obj\Debug\BitMaskSubsets.exe
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\BitMaskSubsets\BitMaskSubsets\obj\Debug\BitMaskSubsets.pdb

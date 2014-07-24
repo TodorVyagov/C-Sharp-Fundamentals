@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\SignOfProductOfThreeRealNumbers\bin\Debug\SignOfProductOfThreeRealNumbers.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\SignOfProductOfThreeRealNumbers\bin\Debug\SignOfProductOfThreeRealNumbers.exe
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\SignOfProductOfThreeRealNumbers\bin\Debug\SignOfProductOfThreeRealNumbers.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\SignOfProductOfThreeRealNumbers\obj\Debug\02. SignOfProductOfThreeRealNumbers.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\SignOfProductOfThreeRealNumbers\obj\Debug\SignOfProductOfThreeRealNumbers.exe
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\SignOfProductOfThreeRealNumbers\obj\Debug\SignOfProductOfThreeRealNumbers.pdb

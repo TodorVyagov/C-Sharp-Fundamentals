@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\InputIntDoubleOrString\bin\Debug\InputIntDoubleOrString.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\InputIntDoubleOrString\bin\Debug\InputIntDoubleOrString.exe
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\InputIntDoubleOrString\bin\Debug\InputIntDoubleOrString.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\InputIntDoubleOrString\obj\Debug\08. InputIntDoubleOrString.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\InputIntDoubleOrString\obj\Debug\InputIntDoubleOrString.exe
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\InputIntDoubleOrString\obj\Debug\InputIntDoubleOrString.pdb

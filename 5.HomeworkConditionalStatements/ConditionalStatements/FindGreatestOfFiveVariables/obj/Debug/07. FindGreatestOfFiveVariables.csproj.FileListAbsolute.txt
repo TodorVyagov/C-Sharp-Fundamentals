@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\FindGreatestOfFiveVariables\bin\Debug\FindGreatestOfFiveVariables.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\FindGreatestOfFiveVariables\bin\Debug\FindGreatestOfFiveVariables.exe
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\FindGreatestOfFiveVariables\bin\Debug\FindGreatestOfFiveVariables.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\FindGreatestOfFiveVariables\obj\Debug\07. FindGreatestOfFiveVariables.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\FindGreatestOfFiveVariables\obj\Debug\FindGreatestOfFiveVariables.exe
+D:\Todor\Telerik Software Academy\C# 1Part\5.HomeworkConditionalStatements\ConditionalStatements\FindGreatestOfFiveVariables\obj\Debug\FindGreatestOfFiveVariables.pdb
