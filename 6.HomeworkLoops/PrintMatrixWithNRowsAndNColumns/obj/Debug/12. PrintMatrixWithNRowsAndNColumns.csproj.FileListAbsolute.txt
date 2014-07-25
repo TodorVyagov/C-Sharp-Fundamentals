@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\PrintMatrixWithNRowsAndNColumns\bin\Debug\PrintMatrixWithNRowsAndNColumns.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\PrintMatrixWithNRowsAndNColumns\bin\Debug\PrintMatrixWithNRowsAndNColumns.exe
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\PrintMatrixWithNRowsAndNColumns\bin\Debug\PrintMatrixWithNRowsAndNColumns.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\PrintMatrixWithNRowsAndNColumns\obj\Debug\PrintMatrixWithNRowsAndNColumns.exe
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\PrintMatrixWithNRowsAndNColumns\obj\Debug\PrintMatrixWithNRowsAndNColumns.pdb

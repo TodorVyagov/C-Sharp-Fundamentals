@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculateGreatestCommonDivisorOfTwoNumbers\bin\Debug\CalculateGreatestCommonDivisorOfTwoNumbers.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculateGreatestCommonDivisorOfTwoNumbers\bin\Debug\CalculateGreatestCommonDivisorOfTwoNumbers.exe
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculateGreatestCommonDivisorOfTwoNumbers\bin\Debug\CalculateGreatestCommonDivisorOfTwoNumbers.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculateGreatestCommonDivisorOfTwoNumbers\obj\Debug\CalculateGreatestCommonDivisorOfTwoNumbers.exe
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculateGreatestCommonDivisorOfTwoNumbers\obj\Debug\CalculateGreatestCommonDivisorOfTwoNumbers.pdb

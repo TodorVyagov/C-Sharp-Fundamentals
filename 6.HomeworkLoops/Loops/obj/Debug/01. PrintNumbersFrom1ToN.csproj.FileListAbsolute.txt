@@ -1,0 +1,8 @@
+C:\Users\student\Documents\Visual Studio 2012\Projects\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\student\Documents\Visual Studio 2012\Projects\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\student\Documents\Visual Studio 2012\Projects\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\student\Documents\Visual Studio 2012\Projects\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\student\Documents\Visual Studio 2012\Projects\Loops\Loops\obj\Debug\Loops.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\Loops\bin\Debug\Loops.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\Loops\obj\Debug\Loops.exe
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\Loops\obj\Debug\Loops.pdb

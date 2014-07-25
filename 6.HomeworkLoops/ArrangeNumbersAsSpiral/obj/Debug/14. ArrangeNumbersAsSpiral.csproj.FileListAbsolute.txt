@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\ArrangeNumbersAsSpiral\bin\Debug\ArrangeNumbersAsSpiral.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\ArrangeNumbersAsSpiral\bin\Debug\ArrangeNumbersAsSpiral.exe
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\ArrangeNumbersAsSpiral\bin\Debug\ArrangeNumbersAsSpiral.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\ArrangeNumbersAsSpiral\obj\Debug\14. ArrangeNumbersAsSpiral.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\ArrangeNumbersAsSpiral\obj\Debug\ArrangeNumbersAsSpiral.exe
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\ArrangeNumbersAsSpiral\obj\Debug\ArrangeNumbersAsSpiral.pdb

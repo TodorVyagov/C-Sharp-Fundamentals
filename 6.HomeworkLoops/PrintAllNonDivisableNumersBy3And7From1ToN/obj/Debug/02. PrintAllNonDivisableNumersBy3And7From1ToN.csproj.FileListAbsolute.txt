@@ -1,0 +1,11 @@
+C:\Users\student\Documents\Visual Studio 2012\Projects\Loops\PrintAllNonDivisableNumersBy3And7From1ToN\bin\Debug\PrintAllNonDivisableNumersBy3And7From1ToN.exe.config
+C:\Users\student\Documents\Visual Studio 2012\Projects\Loops\PrintAllNonDivisableNumersBy3And7From1ToN\bin\Debug\PrintAllNonDivisableNumersBy3And7From1ToN.exe
+C:\Users\student\Documents\Visual Studio 2012\Projects\Loops\PrintAllNonDivisableNumersBy3And7From1ToN\bin\Debug\PrintAllNonDivisableNumersBy3And7From1ToN.pdb
+C:\Users\student\Documents\Visual Studio 2012\Projects\Loops\PrintAllNonDivisableNumersBy3And7From1ToN\obj\Debug\PrintAllNonDivisableNumersBy3And7From1ToN.exe
+C:\Users\student\Documents\Visual Studio 2012\Projects\Loops\PrintAllNonDivisableNumersBy3And7From1ToN\obj\Debug\PrintAllNonDivisableNumersBy3And7From1ToN.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\PrintAllNonDivisableNumersBy3And7From1ToN\bin\Debug\PrintAllNonDivisableNumersBy3And7From1ToN.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\PrintAllNonDivisableNumersBy3And7From1ToN\obj\Debug\PrintAllNonDivisableNumersBy3And7From1ToN.exe
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\PrintAllNonDivisableNumersBy3And7From1ToN\obj\Debug\PrintAllNonDivisableNumersBy3And7From1ToN.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\PrintAllNonDivisableNumersBy3And7From1ToN\bin\Debug\PrintAllNonDivisableNumersBy3And7From1ToN.exe
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\PrintAllNonDivisableNumersBy3And7From1ToN\bin\Debug\PrintAllNonDivisableNumersBy3And7From1ToN.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\PrintAllNonDivisableNumersBy3And7From1ToN\obj\Debug\02. PrintAllNonDivisableNumersBy3And7From1ToN.csprojResolveAssemblyReference.cache

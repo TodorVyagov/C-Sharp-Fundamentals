@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculateSumOfNFibonacciMembers\bin\Debug\CalculateSumOfNFibonacciMembers.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculateSumOfNFibonacciMembers\bin\Debug\CalculateSumOfNFibonacciMembers.exe
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculateSumOfNFibonacciMembers\bin\Debug\CalculateSumOfNFibonacciMembers.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculateSumOfNFibonacciMembers\obj\Debug\CalculateSumOfNFibonacciMembers.exe
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculateSumOfNFibonacciMembers\obj\Debug\CalculateSumOfNFibonacciMembers.pdb

@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\SumOfFractions\bin\Debug\SumOfFractions.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\SumOfFractions\bin\Debug\SumOfFractions.exe
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\SumOfFractions\bin\Debug\SumOfFractions.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\SumOfFractions\obj\Debug\06. SumOfFractions.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\SumOfFractions\obj\Debug\SumOfFractions.exe
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\SumOfFractions\obj\Debug\SumOfFractions.pdb

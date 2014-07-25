@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculationWithFactorialsNAndK\bin\Debug\CalculationWithFactorialsNAndK.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculationWithFactorialsNAndK\bin\Debug\CalculationWithFactorialsNAndK.exe
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculationWithFactorialsNAndK\bin\Debug\CalculationWithFactorialsNAndK.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculationWithFactorialsNAndK\obj\Debug\CalculationWithFactorialsNAndK.exe
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculationWithFactorialsNAndK\obj\Debug\CalculationWithFactorialsNAndK.pdb

@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculateNthCatalanNumber\bin\Debug\CalculateNthCatalanNumber.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculateNthCatalanNumber\obj\Debug\CalculateNthCatalanNumber.exe
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculateNthCatalanNumber\obj\Debug\CalculateNthCatalanNumber.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculateNthCatalanNumber\bin\Debug\CalculateNthCatalanNumber.exe
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculateNthCatalanNumber\bin\Debug\CalculateNthCatalanNumber.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculateNthCatalanNumber\obj\Debug\09-10. CalculateNthCatalanNumber.csprojResolveAssemblyReference.cache

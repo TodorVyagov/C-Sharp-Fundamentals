@@ -1,0 +1,12 @@
+C:\Users\student\Documents\Visual Studio 2012\Projects\Loops\PrintMaxAndMinNumbers\bin\Debug\PrintMaxAndMinNumbers.exe.config
+C:\Users\student\Documents\Visual Studio 2012\Projects\Loops\PrintMaxAndMinNumbers\bin\Debug\PrintMaxAndMinNumbers.exe
+C:\Users\student\Documents\Visual Studio 2012\Projects\Loops\PrintMaxAndMinNumbers\bin\Debug\PrintMaxAndMinNumbers.pdb
+C:\Users\student\Documents\Visual Studio 2012\Projects\Loops\PrintMaxAndMinNumbers\obj\Debug\03. PrintMaxAndMinNumbers.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2012\Projects\Loops\PrintMaxAndMinNumbers\obj\Debug\PrintMaxAndMinNumbers.exe
+C:\Users\student\Documents\Visual Studio 2012\Projects\Loops\PrintMaxAndMinNumbers\obj\Debug\PrintMaxAndMinNumbers.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\PrintMaxAndMinNumbers\bin\Debug\PrintMaxAndMinNumbers.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\PrintMaxAndMinNumbers\obj\Debug\PrintMaxAndMinNumbers.exe
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\PrintMaxAndMinNumbers\obj\Debug\PrintMaxAndMinNumbers.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\PrintMaxAndMinNumbers\bin\Debug\PrintMaxAndMinNumbers.exe
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\PrintMaxAndMinNumbers\bin\Debug\PrintMaxAndMinNumbers.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\PrintMaxAndMinNumbers\obj\Debug\03. PrintMaxAndMinNumbers.csprojResolveAssemblyReference.cache

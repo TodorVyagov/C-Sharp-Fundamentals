@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculateNfactorialDividedByKfactorial\bin\Debug\CalculateNfactorialDividedByKfactorial.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculateNfactorialDividedByKfactorial\bin\Debug\CalculateNfactorialDividedByKfactorial.exe
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculateNfactorialDividedByKfactorial\bin\Debug\CalculateNfactorialDividedByKfactorial.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculateNfactorialDividedByKfactorial\obj\Debug\04. CalculateNfactorialDividedByKfactorial.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculateNfactorialDividedByKfactorial\obj\Debug\CalculateNfactorialDividedByKfactorial.exe
+D:\Todor\Telerik Software Academy\C# 1Part\6.HomeworkLoops\CalculateNfactorialDividedByKfactorial\obj\Debug\CalculateNfactorialDividedByKfactorial.pdb
