@@ -1,0 +1,6 @@
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\carpetsWithIntArray\bin\Debug\carpetsWithIntArray.exe.config
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\carpetsWithIntArray\bin\Debug\carpetsWithIntArray.exe
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\carpetsWithIntArray\bin\Debug\carpetsWithIntArray.pdb
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\carpetsWithIntArray\obj\Debug\carpetsWithIntArray.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\carpetsWithIntArray\obj\Debug\carpetsWithIntArray.exe
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\carpetsWithIntArray\obj\Debug\carpetsWithIntArray.pdb

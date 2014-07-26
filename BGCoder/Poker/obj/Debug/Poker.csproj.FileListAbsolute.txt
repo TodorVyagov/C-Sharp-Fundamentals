@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Poker\bin\Debug\Poker.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Poker\bin\Debug\Poker.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Poker\bin\Debug\Poker.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Poker\obj\Debug\Poker.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Poker\obj\Debug\Poker.pdb

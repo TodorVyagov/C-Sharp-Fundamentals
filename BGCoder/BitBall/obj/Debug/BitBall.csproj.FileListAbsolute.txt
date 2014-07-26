@@ -1,0 +1,22 @@
+C:\Users\student\Desktop\Todor\ExamPreparation\BitBall\bin\Debug\BitBall.exe
+C:\Users\student\Desktop\Todor\ExamPreparation\BitBall\bin\Debug\BitBall.pdb
+C:\Users\student\Desktop\Todor\ExamPreparation\BitBall\obj\Debug\BitBall.exe
+C:\Users\student\Desktop\Todor\ExamPreparation\BitBall\obj\Debug\BitBall.pdb
+C:\Users\student\Desktop\Todor\ExamPreparation\BitBall\obj\Debug\BitBall.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\BitBall\obj\Debug\BitBall.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\BitBall\obj\Debug\BitBall.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\BitBall\bin\Debug\BitBall.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\BitBall\bin\Debug\BitBall.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\BitBall\obj\Debug\BitBall.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ExamPreparation\BitBall\obj\Debug\BitBall.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ExamPreparation\BitBall\obj\Debug\BitBall.pdb
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\BitBall\obj\Debug\BitBall.exe
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\BitBall\obj\Debug\BitBall.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\BitBall\obj\Debug\BitBall.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\BitBall\obj\Debug\BitBall.pdb
+D:\Todor\Telerik Software Academy\01.C# 1Part\BGCoder\BitBall\obj\Debug\BitBall.exe
+D:\Todor\Telerik Software Academy\01.C# 1Part\BGCoder\BitBall\obj\Debug\BitBall.pdb
+D:\Todor\Telerik Software Academy\01.C#- 1Part\BGCoder\BitBall\obj\Debug\BitBall.exe
+D:\Todor\Telerik Software Academy\01.C#- 1Part\BGCoder\BitBall\obj\Debug\BitBall.pdb
+D:\Todor\Telerik Software Academy\01.C#- 1Part\BGCoder\AstrologicalDigits\obj\Debug\BitBall.exe
+D:\Todor\Telerik Software Academy\01.C#- 1Part\BGCoder\AstrologicalDigits\obj\Debug\BitBall.pdb

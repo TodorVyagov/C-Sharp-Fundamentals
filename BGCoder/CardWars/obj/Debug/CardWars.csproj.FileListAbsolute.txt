@@ -1,0 +1,13 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ExamPreparation\CardWars\bin\Debug\CardWars.exe.config
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\CardWars\bin\Debug\CardWars.exe.config
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\CardWars\bin\Debug\CardWars.exe
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\CardWars\bin\Debug\CardWars.pdb
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\CardWars\obj\Debug\CardWars.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\CardWars\obj\Debug\CardWars.exe
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\CardWars\obj\Debug\CardWars.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\CardWars\bin\Debug\CardWars.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\CardWars\obj\Debug\CardWars.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\CardWars\obj\Debug\CardWars.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\CardWars\obj\Debug\CardWars.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\CardWars\bin\Debug\CardWars.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\CardWars\bin\Debug\CardWars.pdb

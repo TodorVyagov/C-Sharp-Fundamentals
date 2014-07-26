@@ -1,0 +1,7 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\BullsAndCows\bin\Debug\ExamPreparation.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\BullsAndCows\bin\Debug\ExamPreparation.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\BullsAndCows\obj\Debug\BullsAndCows.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\BullsAndCows\obj\Debug\ExamPreparation.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\BullsAndCows\obj\Debug\ExamPreparation.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\BullsAndCows\obj\Debug\ExamPreparation.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\BullsAndCows\obj\Debug\ExamPreparation.pdb

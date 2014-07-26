@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ApplesOrOranges\bin\Debug\ApplesOrOranges.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ApplesOrOranges\bin\Debug\ApplesOrOranges.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ApplesOrOranges\bin\Debug\ApplesOrOranges.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ApplesOrOranges\obj\Debug\ApplesOrOranges.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ApplesOrOranges\obj\Debug\ApplesOrOranges.pdb

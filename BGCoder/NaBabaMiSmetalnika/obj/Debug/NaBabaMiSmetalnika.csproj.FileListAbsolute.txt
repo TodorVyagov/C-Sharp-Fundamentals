@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\NaBabaMiSmetalnika\bin\Debug\NaBabaMiSmetalnika.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\NaBabaMiSmetalnika\bin\Debug\NaBabaMiSmetalnika.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\NaBabaMiSmetalnika\bin\Debug\NaBabaMiSmetalnika.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\NaBabaMiSmetalnika\obj\Debug\NaBabaMiSmetalnika.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\NaBabaMiSmetalnika\obj\Debug\NaBabaMiSmetalnika.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\NaBabaMiSmetalnika\obj\Debug\NaBabaMiSmetalnika.pdb

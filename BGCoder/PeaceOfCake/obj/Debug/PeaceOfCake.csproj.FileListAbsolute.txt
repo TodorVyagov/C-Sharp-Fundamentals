@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\PeaceOfCake\bin\Debug\PeaceOfCake.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\PeaceOfCake\bin\Debug\PeaceOfCake.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\PeaceOfCake\bin\Debug\PeaceOfCake.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\PeaceOfCake\obj\Debug\PeaceOfCake.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\PeaceOfCake\obj\Debug\PeaceOfCake.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\PeaceOfCake\obj\Debug\PeaceOfCake.pdb

@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ExamPreparation\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ExamPreparation\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ExamPreparation\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ExamPreparation\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ExamPreparation\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.pdb

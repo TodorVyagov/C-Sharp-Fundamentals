@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\AngryFemaleGPS\bin\Debug\AngryFemaleGPS.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\AngryFemaleGPS\bin\Debug\AngryFemaleGPS.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\AngryFemaleGPS\bin\Debug\AngryFemaleGPS.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.pdb

@@ -1,0 +1,8 @@
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\Carpets\bin\Debug\Carpets.exe.config
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\Carpets\bin\Debug\Carpets.exe
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\Carpets\bin\Debug\Carpets.pdb
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\Carpets\obj\Debug\Carpets.exe
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\Carpets\obj\Debug\Carpets.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Carpets\bin\Debug\Carpets.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Carpets\obj\Debug\Carpets.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Carpets\obj\Debug\Carpets.pdb

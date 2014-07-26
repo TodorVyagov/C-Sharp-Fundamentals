@@ -1,0 +1,15 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ExamPreparation\ForestRoad\bin\Debug\ForestRoad.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ExamPreparation\ForestRoad\bin\Debug\ForestRoad.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ExamPreparation\ForestRoad\bin\Debug\ForestRoad.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ExamPreparation\ForestRoad\obj\Debug\ForestRoad.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ExamPreparation\ForestRoad\obj\Debug\ForestRoad.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ExamPreparation\ForestRoad\obj\Debug\ForestRoad.pdb
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\ForestRoad\bin\Debug\ForestRoad.exe.config
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\ForestRoad\obj\Debug\ForestRoad.exe
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\ForestRoad\obj\Debug\ForestRoad.pdb
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\ForestRoad\bin\Debug\ForestRoad.exe
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\ForestRoad\bin\Debug\ForestRoad.pdb
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\ForestRoad\obj\Debug\ForestRoad.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ForestRoad\bin\Debug\ForestRoad.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ForestRoad\obj\Debug\ForestRoad.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ForestRoad\obj\Debug\ForestRoad.pdb

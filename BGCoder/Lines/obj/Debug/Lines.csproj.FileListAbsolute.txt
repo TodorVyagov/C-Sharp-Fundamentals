@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Lines\bin\Debug\Lines.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Lines\bin\Debug\Lines.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Lines\bin\Debug\Lines.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Lines\obj\Debug\Lines.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Lines\obj\Debug\Lines.pdb

@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Trapezoid\bin\Debug\Trapezoid.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Trapezoid\bin\Debug\Trapezoid.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Trapezoid\bin\Debug\Trapezoid.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Trapezoid\obj\Debug\Trapezoid.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Trapezoid\obj\Debug\Trapezoid.pdb

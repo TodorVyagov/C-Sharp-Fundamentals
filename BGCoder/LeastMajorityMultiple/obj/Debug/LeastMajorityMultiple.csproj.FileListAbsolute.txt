@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.pdb

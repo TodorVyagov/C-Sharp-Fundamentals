@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\Todor\ExamPreparation\Fire\bin\Debug\Fire.exe
+C:\Users\student\Desktop\Todor\ExamPreparation\Fire\bin\Debug\Fire.pdb
+C:\Users\student\Desktop\Todor\ExamPreparation\Fire\obj\Debug\Fire.exe
+C:\Users\student\Desktop\Todor\ExamPreparation\Fire\obj\Debug\Fire.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\Todor\ExamPreparation\Fire\obj\Debug\Fire.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\Todor\ExamPreparation\Fire\obj\Debug\Fire.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\Fire\obj\Debug\Fire.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\Fire\obj\Debug\Fire.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\Fire\bin\Debug\Fire.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\Fire\bin\Debug\Fire.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\Fire\obj\Debug\Fire.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\Fire\obj\Debug\Fire.exe
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\Fire\obj\Debug\Fire.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Fire\obj\Debug\Fire.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Fire\obj\Debug\Fire.pdb

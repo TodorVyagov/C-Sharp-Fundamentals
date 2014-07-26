@@ -1,0 +1,5 @@
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\FallDownArraySorting\bin\Debug\FallDownArraySorting.exe.config
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\FallDownArraySorting\bin\Debug\FallDownArraySorting.exe
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\FallDownArraySorting\bin\Debug\FallDownArraySorting.pdb
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\FallDownArraySorting\obj\Debug\FallDownArraySorting.exe
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\FallDownArraySorting\obj\Debug\FallDownArraySorting.pdb

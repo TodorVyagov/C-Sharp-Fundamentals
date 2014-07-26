@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\AstrologicalDigits\bin\Debug\AstrologicalDigits.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\AstrologicalDigits\bin\Debug\AstrologicalDigits.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\AstrologicalDigits\bin\Debug\AstrologicalDigits.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\AstrologicalDigits\obj\Debug\AstrologicalDigits.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\AstrologicalDigits\obj\Debug\AstrologicalDigits.pdb

@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\EasterMister\bin\Debug\EasterMister.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\EasterMister\bin\Debug\EasterMister.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\EasterMister\bin\Debug\EasterMister.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\EasterMister\obj\Debug\EasterMister.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\EasterMister\obj\Debug\EasterMister.pdb

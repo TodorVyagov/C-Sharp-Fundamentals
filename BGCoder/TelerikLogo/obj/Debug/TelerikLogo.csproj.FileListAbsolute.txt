@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\Todor\ExamPreparation\ExamPreparation\bin\Debug\ExamPreparation.exe
+C:\Users\student\Desktop\Todor\ExamPreparation\ExamPreparation\bin\Debug\ExamPreparation.pdb
+C:\Users\student\Desktop\Todor\ExamPreparation\ExamPreparation\obj\Debug\TelerikLogo.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Todor\ExamPreparation\ExamPreparation\obj\Debug\ExamPreparation.exe
+C:\Users\student\Desktop\Todor\ExamPreparation\ExamPreparation\obj\Debug\ExamPreparation.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\ExamPreparation\obj\Debug\ExamPreparation.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\ExamPreparation\obj\Debug\ExamPreparation.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\TelerikLogo\obj\Debug\ExamPreparation.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\TelerikLogo\obj\Debug\ExamPreparation.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ExamPreparation\TelerikLogo\obj\Debug\ExamPreparation.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\ExamPreparation\TelerikLogo\obj\Debug\ExamPreparation.pdb
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\TelerikLogo\obj\Debug\ExamPreparation.exe
+C:\Users\student\Downloads\HW_RANOPILE_Podgotovka-za-izpit_2013-12-01_12-40\TelerikLogo\obj\Debug\ExamPreparation.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\TelerikLogo\obj\Debug\ExamPreparation.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\TelerikLogo\obj\Debug\ExamPreparation.pdb

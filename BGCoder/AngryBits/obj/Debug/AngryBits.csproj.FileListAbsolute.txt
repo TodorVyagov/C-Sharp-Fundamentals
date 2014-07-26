@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\AngryBits\bin\Debug\AngryBits.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\AngryBits\bin\Debug\AngryBits.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\AngryBits\bin\Debug\AngryBits.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\AngryBits\obj\Debug\AngryBits.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\AngryBits\obj\Debug\AngryBits.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\AngryBits\obj\Debug\AngryBits.csprojResolveAssemblyReference.cache

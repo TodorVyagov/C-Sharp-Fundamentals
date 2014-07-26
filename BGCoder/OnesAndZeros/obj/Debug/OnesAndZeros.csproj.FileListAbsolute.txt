@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\OnesAndZeros\bin\Debug\OnesAndZeros.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\OnesAndZeros\bin\Debug\OnesAndZeros.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\OnesAndZeros\bin\Debug\OnesAndZeros.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\OnesAndZeros\obj\Debug\OnesAndZeros.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\OnesAndZeros\obj\Debug\OnesAndZeros.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\OnesAndZeros\obj\Debug\OnesAndZeros.csprojResolveAssemblyReference.cache

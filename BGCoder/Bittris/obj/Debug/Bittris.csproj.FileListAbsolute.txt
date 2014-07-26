@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Bittris\bin\Debug\Bittris.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Bittris\bin\Debug\Bittris.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Bittris\bin\Debug\Bittris.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Bittris\obj\Debug\Bittris.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Bittris\obj\Debug\Bittris.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Bittris\obj\Debug\Bittris.pdb

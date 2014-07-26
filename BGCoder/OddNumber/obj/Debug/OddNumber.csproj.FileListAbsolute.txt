@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\OddNumber\bin\Debug\OddNumber.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\OddNumber\bin\Debug\OddNumber.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\OddNumber\bin\Debug\OddNumber.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\OddNumber\obj\Debug\OddNumber.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\OddNumber\obj\Debug\OddNumber.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\OddNumber\obj\Debug\OddNumber.csprojResolveAssemblyReference.cache

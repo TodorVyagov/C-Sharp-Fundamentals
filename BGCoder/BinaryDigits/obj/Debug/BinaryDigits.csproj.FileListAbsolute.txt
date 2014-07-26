@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\BinaryDigits\bin\Debug\BinaryDigits.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\BinaryDigits\bin\Debug\BinaryDigits.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\BinaryDigits\bin\Debug\BinaryDigits.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\BinaryDigits\obj\Debug\BinaryDigits.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\BinaryDigits\obj\Debug\BinaryDigits.pdb

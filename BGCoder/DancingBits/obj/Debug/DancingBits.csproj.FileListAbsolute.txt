@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\DancingBits\bin\Debug\DancingBits.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\DancingBits\bin\Debug\DancingBits.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\DancingBits\bin\Debug\DancingBits.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\DancingBits\obj\Debug\DancingBits.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\DancingBits\obj\Debug\DancingBits.pdb

@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\SandGlass\bin\Debug\SandGlass.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\SandGlass\bin\Debug\SandGlass.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\SandGlass\bin\Debug\SandGlass.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\SandGlass\obj\Debug\SandGlass.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\SandGlass\obj\Debug\SandGlass.pdb

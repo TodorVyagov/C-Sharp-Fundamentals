@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\QuadronacciRectangle\bin\Debug\QuadronacciRectangle.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\QuadronacciRectangle\bin\Debug\QuadronacciRectangle.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\QuadronacciRectangle\bin\Debug\QuadronacciRectangle.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\QuadronacciRectangle\obj\Debug\QuadronacciRectangle.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\QuadronacciRectangle\obj\Debug\QuadronacciRectangle.pdb

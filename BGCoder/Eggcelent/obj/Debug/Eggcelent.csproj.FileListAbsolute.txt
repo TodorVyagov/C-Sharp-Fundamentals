@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Eggcelent\bin\Debug\Eggcelent.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Eggcelent\bin\Debug\Eggcelent.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Eggcelent\bin\Debug\Eggcelent.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Eggcelent\obj\Debug\Eggcelent.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Eggcelent\obj\Debug\Eggcelent.pdb

@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\NextDate\bin\Debug\NextDate.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\NextDate\bin\Debug\NextDate.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\NextDate\bin\Debug\NextDate.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\NextDate\obj\Debug\NextDate.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\NextDate\obj\Debug\NextDate.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\NextDate\obj\Debug\NextDate.pdb

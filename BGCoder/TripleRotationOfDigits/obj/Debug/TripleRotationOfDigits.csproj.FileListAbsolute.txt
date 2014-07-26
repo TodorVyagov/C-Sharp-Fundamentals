@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\TripleRotationOfDigits\bin\Debug\TripleRotationOfDigits.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\TripleRotationOfDigits\bin\Debug\TripleRotationOfDigits.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\TripleRotationOfDigits\bin\Debug\TripleRotationOfDigits.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\TripleRotationOfDigits\obj\Debug\TripleRotationOfDigits.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\TripleRotationOfDigits\obj\Debug\TripleRotationOfDigits.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\TripleRotationOfDigits\obj\Debug\TripleRotationOfDigits.pdb

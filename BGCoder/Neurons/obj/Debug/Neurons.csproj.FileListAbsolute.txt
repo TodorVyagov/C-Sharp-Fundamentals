@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\Todor\ExamPreparation\Neurons\bin\Debug\Neurons.exe
+C:\Users\student\Desktop\Todor\ExamPreparation\Neurons\bin\Debug\Neurons.pdb
+C:\Users\student\Desktop\Todor\ExamPreparation\Neurons\obj\Debug\Neurons.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Todor\ExamPreparation\Neurons\obj\Debug\Neurons.exe
+C:\Users\student\Desktop\Todor\ExamPreparation\Neurons\obj\Debug\Neurons.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\Todor\ExamPreparation\Neurons\obj\Debug\Neurons.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\Todor\ExamPreparation\Neurons\obj\Debug\Neurons.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\Todor\ExamPreparation\Neurons\bin\Debug\Neurons.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\Todor\ExamPreparation\Neurons\bin\Debug\Neurons.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\Todor\ExamPreparation\Neurons\obj\Debug\Neurons.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\Neurons\obj\Debug\Neurons.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\Neurons\obj\Debug\Neurons.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\Neurons\bin\Debug\Neurons.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\Neurons\bin\Debug\Neurons.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\Neurons\obj\Debug\Neurons.csprojResolveAssemblyReference.cache

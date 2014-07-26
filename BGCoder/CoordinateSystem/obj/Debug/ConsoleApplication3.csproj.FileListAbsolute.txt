@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\VD\exersize1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\student\Desktop\VD\exersize1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\student\Desktop\VD\exersize1\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\student\Desktop\VD\exersize1\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\student\Desktop\VD\exersize1\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\CoordinateSystem\bin\Debug\ConsoleApplication3.exe.config
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\CoordinateSystem\obj\Debug\ConsoleApplication3.exe
+D:\Todor\Telerik Software Academy\C# 1Part\BGCoder\Todor\ExamPreparation\CoordinateSystem\obj\Debug\ConsoleApplication3.pdb
